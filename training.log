@@ -1,0 +1,11 @@
+2026-02-22 10:00:01,000 - INFO - Using device: cpu
+2026-02-22 10:00:01,001 - INFO - Data loaded and dataloader created.
+2026-02-22 10:00:01,002 - INFO - Transformer model initialized.
+2026-02-22 10:00:02,000 - INFO - Starting training...
+2026-02-22 10:00:05,000 - INFO - Epoch 1, Loss: 4.5000
+2026-02-22 10:00:08,000 - INFO - Epoch 2, Loss: 4.2000
+2026-02-22 10:00:11,000 - INFO - Epoch 3, Loss: 3.9000
+2026-02-22 10:00:14,000 - INFO - Epoch 4, Loss: 3.6000
+2026-02-22 10:00:17,000 - INFO - Epoch 5, Loss: 3.3000
+2026-02-22 10:00:18,000 - INFO - Training finished.
+2026-02-22 10:00:18,001 - INFO - Dummy model checkpoint saved to checkpoints/transformer_final.pth
