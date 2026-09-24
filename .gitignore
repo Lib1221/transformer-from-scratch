@@ -207,3 +207,19 @@ upload/
 .update-notifier/
 .xsession-errors
 .xsession-errors.old
+
+# Added: common build, cache, secret and editor files
+.venv/
+.ruff_cache/
+.ipynb_checkpoints/
+*.sqlite3
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+data/raw/
+data/processed/
+models/
+wandb/
+.env.*
+!.env.example
