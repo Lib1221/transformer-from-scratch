@@ -83,3 +83,11 @@ A comprehensive implementation of the Transformer architecture from scratch usin
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
 - [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
+
+## Documentation
+
+Developer docs live in [`docs/`](docs/):
+
+- [Architecture](docs/ARCHITECTURE.md)
+- [Setup](docs/SETUP.md)
+- [Contributing](docs/CONTRIBUTING.md)
